@@ -1122,7 +1122,7 @@ p{
 		width:48.25175%;
 		float:right;
 		margin-right:0;
-		#margin-left:-20px;
+		/* #margin-left:-20px; */
 		display:inline;
 		-webkit-box-orient:vertical;
 		-moz-box-orient:vertical;
@@ -1152,15 +1152,6 @@ p{
 	.profile-content>.profile-image:before{
 		width:572px
 }
-	/* .profile-image-pagination{
-		height:281px
-}
-	.icon-image-previous{
-		top:119px
-}
-	.icon-image-next{
-		top:119px
-} */
 	.profile-description p{
 		width:101%
 }
@@ -1378,7 +1369,7 @@ p{
 	.profile-content>.profile-image:before{
 		width:720px
 }
-	.profile-image-pagination{
+	/* .profile-image-pagination{
 		height:354px
 }
 	.icon-image-previous{
@@ -1386,7 +1377,7 @@ p{
 }
 	.icon-image-next{
 		top:155px
-}
+} */
 	.profile-description p{
 		width:100%
 }
