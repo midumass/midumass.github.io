@@ -1216,7 +1216,7 @@ p{
 		margin-right:37.03704%;
 		display:inline
 }
-	.module-column{
+	/* .module-column{
 		width:46.2963%;
 		float:left;
 		margin-right:7.40741%;
@@ -1241,7 +1241,7 @@ p{
 	.module-hours .module-column:last-of-type:last-child{
 		float:right;
 		margin-right:0
-}
+} */
 }
 @media screen and (min-width:48em) and (max-width:63.9375em){
 	body:after{
@@ -1339,7 +1339,7 @@ p{
 		width:48.61111%;
 		float:right;
 		margin-right:0;
-		#margin-left:-20px;
+		/* #margin-left:-20px; */
 		display:inline;
 		-webkit-box-orient:vertical;
 		-moz-box-orient:vertical;
@@ -1369,15 +1369,6 @@ p{
 	.profile-content>.profile-image:before{
 		width:720px
 }
-	/* .profile-image-pagination{
-		height:354px
-}
-	.icon-image-previous{
-		top:155px
-}
-	.icon-image-next{
-		top:155px
-} */
 	.profile-description p{
 		width:100%
 }
@@ -1447,7 +1438,7 @@ p{
 		margin-right:37.03704%;
 		display:inline
 }
-	.module-column{
+	/* .module-column{
 		width:47.05882%;
 		float:left;
 		margin-right:5.88235%;
@@ -1456,7 +1447,7 @@ p{
 	.module-column:nth-child(even){
 		float:right;
 		margin-right:0
-}
+} */
 }
 @media screen and (min-width:64em) and (max-width:79.9375em),screen and (min-width:64em) and (max-height:68.6875em){
 	body:after{
@@ -1554,7 +1545,7 @@ p{
 		width:48.84793%;
 		float:right;
 		margin-right:0;
-		#margin-left:-20px;
+		/* #margin-left:-20px; */
 		display:inline;
 		-webkit-box-orient:vertical;
 		-moz-box-orient:vertical;
@@ -1584,15 +1575,15 @@ p{
 	.profile-content>.profile-image:before{
 		width:868px
 }
-	.profile-image-pagination{
+	/* .profile-image-pagination{
 		height:427px
-}
-	.icon-image-previous{
+} */
+	/* .icon-image-previous{
 		top:192px
 }
 	.icon-image-next{
 		top:192px
-}
+} */
 	.profile-description p{
 		width:86%
 }
@@ -1653,7 +1644,7 @@ p{
 		margin-right:37.03704%;
 		display:inline
 }
-	.module-column{
+	/* .module-column{
 		width:47.56098%;
 		float:left;
 		margin-right:4.87805%;
@@ -1662,7 +1653,7 @@ p{
 	.module-column:nth-child(even){
 		float:right;
 		margin-right:0
-}
+} */
 }
 @media screen and (min-width:80em) and (min-height:68.75em){
 	body:after{
