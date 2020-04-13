@@ -1152,7 +1152,7 @@ p{
 	.profile-content>.profile-image:before{
 		width:572px
 }
-	.profile-image-pagination{
+	/* .profile-image-pagination{
 		height:281px
 }
 	.icon-image-previous{
@@ -1160,7 +1160,7 @@ p{
 }
 	.icon-image-next{
 		top:119px
-}
+} */
 	.profile-description p{
 		width:101%
 }
