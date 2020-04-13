@@ -1568,12 +1568,6 @@ p{
 		float:right;
 		margin-right:0
 }
-	/* .profile-logo{
-		width:61.85567%;
-		float:left;
-		margin-right:1.71821%;
-		display:inline
-} */
 	.profile-summary{
 		min-height:80px
 }
@@ -1611,15 +1605,6 @@ p{
 	.profile-content>.profile-image:before{
 		width:1164px
 }
-	/* .profile-image-pagination{
-		height:572px
-}
-	.icon-image-previous{
-		top:264px
-}
-	.icon-image-next{
-		top:264px
-} */
 	.profile-description p{
 		width:75%
 }
@@ -1680,32 +1665,8 @@ p{
 	.columns-3 .profile-module:before{
 		display:none
 }
-	/* .module-column{
-		width:47.64151%;
-		float:left;
-		margin-right:4.71698%;
-		display:inline
-}
-	.module-column:last-child{
-		float:right;
-		margin-right:0
-} */
 }
 @media screen and (-webkit-min-device-pixel-ratio:1.5),screen and (min-resolution:144dpi){
-	.profile-image-dot{
-		background:url(/assets/sprites/profile-icons-hidpi-sprite.png) no-repeat;
-		background-position:0 -287px;
-		background-size:42px auto;
-		height:9px;
-		width:9px
-}
-	.profile-image-dot:hover,.profile-image-dot:focus,.profile-image-dot.current{
-		background:url(/assets/sprites/profile-icons-hidpi-sprite.png) no-repeat;
-		background-position:0 -296px;
-		background-size:42px auto;
-		height:9px;
-		width:9px
-}
 	.menu-item-image.image-error:before{
 		background-image:url(/assets/public/broken-image-hidpi.png);
 		background-size:36px auto
