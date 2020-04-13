@@ -1,5 +1,5 @@
 layout: page
 title: "OpenWeatherMap Forecaster"
-permalink: /DSC-510/12.1
+permalink: /pages/OpenWeather/
 
 Open Weather Test Page
