@@ -96,7 +96,9 @@ p{
 .footer{
 	background:#f4f5f6;
 	border-top:1px solid #eff0f1;
-	width:100%
+    width:100%;
+    position:absolute;
+    bottom:0;
 }
 .footer-navigation{
 	color:#b0b8c1;
