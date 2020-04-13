@@ -32,7 +32,8 @@ a img{
 	border:0
 }
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary{
-	display:block
+    display:block;
+    flex:1;
 }
 *{
 	-webkit-box-sizing:border-box;
@@ -91,7 +92,9 @@ p{
 	background-repeat:repeat-y;
 	height:100%;
 	margin:0 auto;
-	min-height:511px
+    min-height:511px;
+    display:flex;
+    flex-direction:column
 }
 .footer{
 	background:#f4f5f6;
@@ -270,7 +273,7 @@ p{
 .summary-module a{
 	display:block
 }
-.summary-distance{
+/* .summary-distance{
 	display:inline-block;
 	text-transform:lowercase
 }
@@ -286,8 +289,8 @@ p{
 }
 .summary-phone{
 	color:#959ba2
-}
-.address-street{
+} */
+/* .address-street{
 	text-transform:capitalize
 }
 .address-city{
@@ -300,7 +303,7 @@ p{
 	-webkit-user-select:none;
 	-moz-user-select:none;
 	user-select:none
-}
+} */
 .profile-content>.profile-image{
 	background-color:#676e75;
 	margin-bottom:2.35714em;
