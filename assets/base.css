@@ -510,20 +510,20 @@ p{
 .has-images .menu-item-description,.has-images .business-info-address,.has-images .business-bio{
 	overflow:hidden
 }
-.menu-item-price{
+.menu-item-location{
 	color:#72b16e;
 	display:block
 }
-.menu-item-variations .menu-item-price{
+.menu-item-variations .menu-item-location{
 	display:inline-block
 }
-.has-images .menu-item:hover .menu-item-price{
+.has-images .menu-item:hover .menu-item-location{
 	display:inline-block
 }
-.menu-item-price-range{
+.menu-item-location-range{
 	color:#72b16e
 }
-.menu-item-price a,.menu-item-price-range a{
+.menu-item-location a,.menu-item-location-range a{
 	color:#72b16e
 }
 .menu-item-variations{
@@ -730,7 +730,7 @@ p{
 	.has-images .menu-item-description,.has-images .business-info-address,.has-images .business-bio{
 		height:auto
 }
-	.menu-item-price-range{
+	.menu-item-location-range{
 		display:none
 }
 	.has-images .menu-item:hover .menu-item-variations{
