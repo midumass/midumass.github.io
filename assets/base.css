@@ -271,37 +271,6 @@ p{
 .summary-module a{
 	display:block
 }
-/* .summary-distance{
-	display:inline-block;
-	text-transform:lowercase
-}
-.summary-address{
-	display:inline;
-	text-transform:none
-}
-.summary-module .summary-address span{
-	white-space:nowrap
-}
-.summary-hours a{
-	white-space:nowrap
-}
-.summary-phone{
-	color:#959ba2
-} */
-/* .address-street{
-	text-transform:capitalize
-}
-.address-city{
-	text-transform:capitalize
-}
-.address-state{
-	text-transform:uppercase
-}
-.profile-image{
-	-webkit-user-select:none;
-	-moz-user-select:none;
-	user-select:none
-} */
 .profile-content>.profile-image{
 	background-color:#676e75;
 	margin-bottom:2.35714em;
