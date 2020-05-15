@@ -41,6 +41,7 @@
           <article class="profile-menu" id="menu">
             <nav class="menu-navigation">
               <ul class="menu-navigation-list">
+                <li class="menu-navigation-list-item"><a onclick="document.getElementById('DSC-courses').innerHTML=document.getElementById('DSCCoursework').innerHTML;">DSC Coursework</a></li>
                 <li class="menu-navigation-list-item"><a onclick="document.getElementById('DSC-courses').innerHTML=document.getElementById('DSC-510').innerHTML;">DSC-510</a></li>
                 <li class="menu-navigation-list-item"><a onclick="document.getElementById('DSC-courses').innerHTML=document.getElementById('DSC-520').innerHTML;">DSC-520</a></li>
                 <li class="menu-navigation-list-item"><a onclick="document.getElementById('DSC-courses').innerHTML=document.getElementById('DSC-530').innerHTML;">DSC-530</a></li>
@@ -57,6 +58,41 @@
 
             <section class="menu-category">
               <div id="DSC-courses">
+              </div>
+
+              <div id="DSC Coursework" class="menu-category" style="display:none;">
+                <h3 class="menu-category-name">DSC-510</h3>
+                <ol class="menu-category-list has-images">
+                  <li class="menu-item">
+                    <div class="menu-item-info">
+                      <h4 class="menu-item-name">Assignment 12.1</h4>
+                      <span class="menu-item-location"><a href="https://midumass.github.io/OpenWeatherMap" target="_blank">Website</a> &middot; <a href="https://github.com/midumass/DSC-510/tree/master/12.1" target="_blank">GitHub</a></span>
+                      <p class="menu-item-description">Python script calling OpenWeatherMap's API for a given zip code or city, and provides current weather information.</p>
+                    </div>
+                    <div class="menu-item-image has-meta-content">
+                      <img src="/images/openweather-negative-logo-RGB.png"/>
+                    </div>
+                  </li>
+                  <li class="menu-item">
+                    <div class="menu-item-info">
+                      <h4 class="menu-item-name">Assignment 11.1</h4>
+                      <span class="menu-item-location"><a href="https://midumass.github.io/ShoppingCart" target="_blank">Website</a> &middot; <a href="https://github.com/midumass/DSC-510/tree/master/11.1" target="_blank">GitHub</a></span>
+                      <p class="menu-item-description">Python shopping cart and product selector.</p>
+                    </div>
+                    <div class="menu-item-image has-meta-content">
+                      <img src="/images/pexels-photo-973402.jpeg" />
+                    </div>
+                  </li>
+                </ol>
+                <ol class="menu-category-list">
+                <li class="menu-item">
+                  <div class="menu-item-info">
+                    <h4 class="menu-item-name">Other Projects</h4>
+                    <span class="menu-item-location"><a href="https://github.com/midumass/DSC-510/tree/master/other" target="_blank">GitHub</a></span>
+                    <p class="menu-item-description">Other 510 Projects</p>
+                  </div>
+                </li>
+                </ol>
               </div>
 
               <div id="DSC-510" class="menu-category" style="display:none;">
