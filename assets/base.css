@@ -110,7 +110,7 @@ p{
 }
 .footer-navigation-item{
 	display:inline-block;
-	margin-left:16px;
+	/*margin-left:16px;*/
 	position:relative
 }
 .footer-navigation-item:before{
@@ -129,9 +129,6 @@ p{
 }
 .footer-navigation-item a:hover{
 	color:#3e8cb7
-}
-.footer-navigation-list-item{
-	display:inline-block
 }
 .hidden{
 	display:none;
