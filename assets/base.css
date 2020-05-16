@@ -331,7 +331,8 @@ p{
 	line-height:1.5em;
 	display:inline-block;
 	margin-left:16px;
-	position:relative
+	position:relative;
+	cursor:pointer
 }
 .menu-navigation-list-item:first-child{
 	margin-left:0
