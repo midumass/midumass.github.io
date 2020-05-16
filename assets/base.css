@@ -110,7 +110,7 @@ p{
 }
 .footer-navigation-item{
 	display:inline-block;
-	/*margin-left:16px;*/
+	margin-left:16px;
 	position:relative
 }
 .footer-navigation-item:before{
