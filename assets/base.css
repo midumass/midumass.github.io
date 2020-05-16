@@ -130,6 +130,9 @@ p{
 .footer-navigation-item a:hover{
 	color:#3e8cb7
 }
+.footer-navigation-list{
+	display:inline-block
+}
 .hidden{
 	display:none;
 	border:0
@@ -1105,7 +1108,7 @@ p{
 		width:51.42857em
 }
 	.footer-navigation-list,.copyright{
-		white-space:nowrap
+		white-space:nowrap;
 }
 	.menu-item,.business{
 		width:31.52909%;
