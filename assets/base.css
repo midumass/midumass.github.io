@@ -310,7 +310,8 @@ p{
 	display:block;
 	margin:0 -5px;
 	padding-top:2.35714em;
-	position:relative
+	position:relative;
+	text-align:center
 }
 .profile-description p{
 	font-size:1.57143em;
