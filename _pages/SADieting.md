@@ -5,6 +5,7 @@ header:
   overlay_image: "/images/foods.png"
 ---
 # SAD Dieting
+[View on GitHub](https://github.com/midumass/SADieting/tree/master/) 
 
 ### Purpose
 With obesity becoming an epidemic in almost all reaches of the world including "starving" nations, this project aims to find correlations and causes. Understanding our food intake as at least one part in finding the cause.
