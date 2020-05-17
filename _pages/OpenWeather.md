@@ -15,4 +15,4 @@ This program calls the OpenWeather API to retrieve regional weather information 
 * Python
 
 ### Sample Output
-![Sample Image]("./images/DSC-510/OpenWeather.png")
+![Sample Image](images/DSC-510/OpenWeather.png)
