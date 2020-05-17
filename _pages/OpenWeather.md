@@ -12,3 +12,6 @@ This program calls the OpenWeather API to retrieve regional weather information 
 
 ### Technologies
 * Python
+
+### Sample Output
+
