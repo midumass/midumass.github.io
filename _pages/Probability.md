@@ -8,10 +8,12 @@ header:
 [View on GitHub](https://github.com/midumass/DSC-520/tree/master/11.1) 
 
 ### Purpose
+Working with Probabilities and Distributions in R, using ggplot
 
 ### Technologies
-* 
+* R
+* ggplot
 
-### Data
-
-### Results
+### Sample Output
+![Sample Image](images/DSC-510/Probabilities.png)
+![Sample Image](images/DSC-510/Posteriors.png)
