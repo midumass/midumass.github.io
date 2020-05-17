@@ -6,6 +6,7 @@ header:
 ---
 # Shopping Cart
 ## Zach's Hair Care Emporium
+[View on GitHub](https://github.com/midumass/DSC-510/tree/master/11.1) 
 
 ### Purpose
 Creates a shopping cart for hair care products selected by the user and provides a total for checkout.
