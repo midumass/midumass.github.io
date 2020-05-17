@@ -4,4 +4,13 @@ permalink: /Wine/
 header:
   overlay_image: "/images/wine.jpg"
 ---
-Wine Test Page
+# Wine Test Page
+
+### Purpose
+
+### Technologies
+* 
+
+### Data
+
+### Results

@@ -4,4 +4,13 @@ permalink: /Mario/
 header:
   overlay_image: "/images/mario.png"
 ---
-Mario Madness Test Page
+# Mario Madness Test Page
+
+### Purpose
+
+### Technologies
+* 
+
+### Data
+
+### Results

@@ -4,4 +4,13 @@ permalink: /News/
 header:
   overlay_image: "/images/news.jpg"
 ---
-Wine Test Page
+# News Test Page
+
+### Purpose
+
+### Technologies
+* 
+
+### Data
+
+### Results

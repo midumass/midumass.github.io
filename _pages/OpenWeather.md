@@ -4,4 +4,13 @@ permalink: /OpenWeatherMap/
 header:
   overlay_image: "/images/openweather-negative-logo-RGB.png"
 ---
-Open Weather Test Page
+# Open Weather Test Page
+
+### Purpose
+
+### Technologies
+* 
+
+### Data
+
+### Results

@@ -4,4 +4,13 @@ permalink: /Titanic/
 header:
   overlay_image: "/images/titanic.jpg"
 ---
-Titanic Page Placeholder
+# Titanic Page Placeholder
+
+### Purpose
+
+### Technologies
+* 
+
+### Data
+
+### Results
