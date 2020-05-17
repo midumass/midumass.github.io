@@ -4,7 +4,7 @@ permalink: /OpenWeatherMap/
 header:
   overlay_image: "/images/openweather-negative-logo-RGB.png"
 ---
-# OpenWeather Regional Weather App 
+# OpenWeather Regional Weather 
 
 ### Purpose
 
