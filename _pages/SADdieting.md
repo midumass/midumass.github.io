@@ -1,6 +1,6 @@
 ---
 title: "SAD Dieting"
-permalink: /SADdieting/
+permalink: /SADieting/
 header:
   overlay_image: "/images/foods.png"
 ---
