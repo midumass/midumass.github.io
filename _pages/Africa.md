@@ -4,4 +4,13 @@ permalink: /Africa/
 header:
   overlay_image: "/images/africa.jpg"
 ---
-Africa CPI Test Page
+# Title
+
+### Purpose
+
+### Technologies
+* 
+
+### Data
+
+### Results
