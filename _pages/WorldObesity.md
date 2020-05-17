@@ -1,6 +1,6 @@
 ---
 title: "World Obesity"
-permalink: /World-Obesity/
+permalink: /WorldObesity/
 header:
   overlay_image: "/images/fat_earth.png"
 ---
