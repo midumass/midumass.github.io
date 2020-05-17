@@ -4,13 +4,11 @@ permalink: /OpenWeatherMap/
 header:
   overlay_image: "/images/openweather-negative-logo-RGB.png"
 ---
-# Open Weather Test Page
+# OpenWeather Regional Weather App 
 
 ### Purpose
 
+This program calls the OpenWeather API to retrieve regional weather information from user-specified input
+
 ### Technologies
-* 
-
-### Data
-
-### Results
+* Python
