@@ -1,3 +1,9 @@
+---
+title: "World Obesity"
+permalink: /World-Obesity/
+header:
+  overlay_image: "/images/fat_earth.png"
+---
 # World Obesity
 
 ### Purpose
