@@ -1,3 +1,9 @@
+---
+title: "SAD Dieting"
+permalink: /SADdieting/
+header:
+  overlay_image: "/images/foods.png"
+---
 # SAD Dieting
 
 ### Purpose
