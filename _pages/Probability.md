@@ -15,5 +15,5 @@ Working with Probabilities and Distributions in R, using ggplot
 * ggplot
 
 ### Sample Output
-![Sample Image](images/DSC-510/Probabilities.png)
-![Sample Image](images/DSC-510/Posteriors.png)
+![Sample Image](images/DSC-520/Probabilities.png)
+![Sample Image](images/DSC-520/Posteriors.png)
