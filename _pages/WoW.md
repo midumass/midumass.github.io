@@ -8,7 +8,7 @@ header:
 [View on GitHub](https://github.com/midumass/DSC-530/tree/master/10.4) 
 
 ### Purpose
-Analyzing data in the World of Warcraft Auction House
+Analyzing data pulled from the World of Warcraft Auction House
 
 ### Technologies
 * Python
