@@ -14,5 +14,4 @@ A look into using Area Under the Curve Receiver Operating Characteristics in R
 * R
 
 ### Sample Output
-![Sample Image](images/DSC-510/Probabilities.png)
-![Sample Image](images/DSC-510/Posteriors.png)
+![Sample Image](images/DSC-520/ROC.png)
