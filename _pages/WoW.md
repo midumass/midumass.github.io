@@ -17,10 +17,7 @@ Analyzing data pulled from the World of Warcraft Auction House
 [Sampled Dataset](https://github.com/midumass/DSC-530/blob/master/10.4/ah_item_small.csv) 
 
 ### Results
-![Sample Image](images/DSC-530/AHlevdist.png)
 ![Sample Image](images/DSC-530/AHpricedist.png)
-![Sample Image](images/DSC-530/AHqualdist.png)
-
 ```py
 bid = df['bid']
 print('Mean =', bid.mean(),
@@ -33,3 +30,5 @@ Median = 6004355.0
 SD = 2389442273.198373 
 Variance = 5.709434376947407e+18
 ```
+![Sample Image](images/DSC-530/AHqualdist.png)
+![Sample Image](images/DSC-530/AHlevdist.png)
