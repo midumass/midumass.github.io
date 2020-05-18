@@ -31,4 +31,26 @@ SD = 2389442273.198373
 Variance = 5.709434376947407e+18
 ```
 ![Sample Image](images/DSC-530/AHqualdist.png)
+```py
+qual = df['quality'].value_counts()
+print(qual)
+
+1.0    36333
+2.0    33956
+3.0    20010
+4.0     9494
+0.0      185
+5.0       22
+```
+
 ![Sample Image](images/DSC-530/AHlevdist.png)
+```py
+reqLvl = df['requiredLevel'].value_counts()
+reqLvl.head(5)
+
+0.0      48241
+120.0     6560
+1.0       4829
+100.0     4155
+110.0     2437
+```
