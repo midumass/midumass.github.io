@@ -33,3 +33,5 @@ Now we see a problem. Fresh potato consumption has fallen by more than the drop 
 In contradiction to all claims, almost all fresh vegetable consumption has increased excluding iceberg, or head, lettuce. This contradiction is especially noteworthy because consumption of all other “leafy greens” has increased. It appears we are, once again, meeting the experts' advice.
 ![Fats and Oils](images/SADieting/fats.png)
 Again, these data reinforce the trend of “everything we’ve been told is wrong.” Our animal-based fat consumption has fallen or remained flat while our use of vegetable or plant-based oils (like olive oil) has increased dramatically. 
+
+Unfortunately, it looks like our health experts aren't the experts they claim to be. Obesity is skyrocketing as we follow their low-fat, high-insulin diet. In attempting to avoid heart disease, thier recommendations have led us down a path of obesity, diabetes, and auto-immune disorders. Thanks doc, I'll take my bacon to go please.
