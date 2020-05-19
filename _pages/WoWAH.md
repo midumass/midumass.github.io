@@ -13,7 +13,7 @@ Analyzing data pulled from the World of Warcraft Auction House
 ### Technologies
 * Python
 
-### Data
+### Data Source
 [Sampled Dataset](https://github.com/midumass/DSC-540/blob/master/10.4/ah_item_small.csv) 
 
 ### Results
