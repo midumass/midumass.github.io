@@ -7,4 +7,11 @@ header:
     - label: "Send me an email"
       url: "mailto:midumass@googlemail.com"
 ---
-Contact Markdown Test
+
+LinkedIn: 
+
+Twitter: That's personal
+
+Facebook: I wonder if I can still log in here
+
+Instagram : HAHA I dont have one.

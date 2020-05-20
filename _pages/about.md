@@ -22,10 +22,16 @@ Father, husband, combat veteran, 20-year IT Pro
 * Associates of Arts
 * May 2011
 
-## Certifications Held:
+## Certifications
 * CCNP
 * VCP-DCV
 * Solaris 10 Administration
 * MSCE 2008, 2003, 2000, NT4
 * Novell NetWare 3.10, 4.11
 * A+
+
+## Experience
+* 8 years - Solaris 10/11, UniData and SQL Databases, and Colleague ERP Administrator
+* 2 years - Senior Technical Support, Router-down operations: United States Senate
+* 8 years - Helpdesk and trouble support: Black Entertainment Television, Marriott Hotels, Phillip Morris, GE Information Services, et al
+* 2 years - Installation and implementation team : EDAC systems on contract to Social Security Information
