@@ -4,7 +4,7 @@ permalink: /about/
 header:
   overlay_image: "../images/broken_link.png"
 ---
-Father, husband, combat veteran, 20-year IT Pro
+Father, husband, combat veteran, 20-year IT Pro, Eagle Scout
 
 ## Education
 ### Masters
