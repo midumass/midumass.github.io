@@ -1,5 +1,5 @@
 ---
-title: "Data in the World of Warcraft Auction House"
+title: "Data Mining the World of Warcraft Auction House"
 permalink: /WoWAH/
 header:
   overlay_image: "/images/warcraft.png"
@@ -8,7 +8,7 @@ header:
 [View on GitHub](https://github.com/midumass/DSC-540/tree/master/10.3) 
 
 ### Purpose
-Analyzing data pulled from the World of Warcraft Auction House
+Pulling data from the World of Warcraft Auction House API for analysis
 
 ### Technologies
 * Python
