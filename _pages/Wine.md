@@ -24,6 +24,11 @@ Available at:
 [bib](http://www3.dsi.uminho.pt/pcortez/dss09.bib)
 
 ### Results
+Distributions of variables in dataset
 ![](images/DSC-550/wine_hists.png)
+
+Correlations of variables among data
 ![](images/DSC-550/wine_heat.png)
+
+Accuracy of model
 ![](images/DSC-550/wine_acc.png)
