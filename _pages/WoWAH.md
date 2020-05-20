@@ -14,5 +14,5 @@ World of Warcraft offers more in-game information to the world via its API's tha
 * Python
 
 ### Data Source
-[Sampled Dataset](https://github.com/midumass/DSC-530/blob/master/10.4/ah_item_small.csv) \n
+[Sampled Dataset](https://github.com/midumass/DSC-530/blob/master/10.4/ah_item_small.csv)  
 [Cleaned Dataset](https://github.com/midumass/DSC-540/blob/master/10.3/Assignment_10.3_Final_HillZach.csv) 
