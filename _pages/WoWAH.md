@@ -14,6 +14,7 @@ Pulling data from the World of Warcraft Auction House API for analysis
 * Python
 
 ### Data Source
-[Sampled Dataset](https://github.com/midumass/DSC-540/blob/master/10.4/ah_item_small.csv) 
+[Sampled Dataset](https://github.com/midumass/DSC-530/blob/master/10.4/ah_item_small.csv) 
+[Cleaned Dataset](https://github.com/midumass/DSC-540/blob/master/10.3/ah_item_small.csv) 
 
 ### Results
