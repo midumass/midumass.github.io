@@ -7,8 +7,9 @@ header:
     - label: "Send me an email"
       url: "mailto:midumass@googlemail.com"
 ---
+email: <omitted temporarily>
 
-LinkedIn: 
+LinkedIn: <omitted temporarily>
 
 Twitter: That's personal
 
