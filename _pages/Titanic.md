@@ -18,10 +18,13 @@ Explore survival rates from the Titanic disaster from different factors
 
 ### Results
 Distributions of variables in dataset
-![](images/DSC-550/wine_hists.png)
+![](images/DSC-550/titanic_dists.png)
+
+EDA of relevant factors
+![](images/DSC-550/titanic_bars.png)
 
 Correlations of variables among data
-![](images/DSC-550/wine_heat.png)
+![](images/DSC-550/titanic_corrs.png)
 
 Accuracy of model
-![](images/DSC-550/wine_acc.png)
+![](images/DSC-550/titanic_prf1.png)
