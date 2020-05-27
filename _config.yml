@@ -4,3 +4,4 @@ include: ['_pages']
 title: [Return Home]
 description: [A home for all my projects and musings from data science to random code]
 show_downloads: false
+logo: ["./images/school_logo.png"]
