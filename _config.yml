@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 include: ['_pages']
 
-title: [My Projects]
+title: [Return Home]
 description: [A home for all my projects and musings from data science to random code]
 show_downloads: false
