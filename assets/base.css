@@ -117,11 +117,13 @@ p{
 	position:absolute;
 	left:-12px
 }
+/*
 .footer-navigation-item:first-child{
 	margin-left:0
 }
+*/
 .footer-navigation-item a{
-	color:#b0b8c1;
+	color:#787b80;
 	-webkit-transition:color .3s ease;
 	-moz-transition:color .3s ease;
 	-o-transition:color .3s ease;
