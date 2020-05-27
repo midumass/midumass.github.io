@@ -3,4 +3,4 @@ include: ['_pages']
 
 title: [My Projects]
 description: [A home for all my projects and musings, from data science to random code]
-show_downloads: "true"
+show_downloads: "false"
