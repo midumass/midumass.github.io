@@ -4,7 +4,7 @@ permalink: /AirSafety/
 header:
   overlay_image: "/images/expedia.jpg"
 ---
-# Wine Quality Analysis
+# Airline Safety
 [View on GitHub](https://github.com/midumass/DSC-640/tree/master/4.3) 
 
 ### Purpose
