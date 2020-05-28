@@ -4,7 +4,7 @@ permalink: /News/
 header:
   overlay_image: "/images/news.jpg"
 ---
-# News Test Page
+# News Analysis
 [View on GitHub](https://github.com/midumass/DSC-550/tree/master/5.2) 
 
 ### Purpose
