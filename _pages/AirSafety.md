@@ -1,8 +1,8 @@
 ---
-title: "Wine Quality Analysis with Python"
-permalink: /Wine/
+title: "Airline Safety"
+permalink: /AirSafety/
 header:
-  overlay_image: "/images/wine.jpg"
+  overlay_image: "/images/expedia.jpg"
 ---
 # Wine Quality Analysis
 [View on GitHub](https://github.com/midumass/DSC-640/tree/master/4.3) 
