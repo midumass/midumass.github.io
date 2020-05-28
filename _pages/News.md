@@ -14,7 +14,7 @@ Analyze article data from different news agencies from article count and length 
 * Python, jupyter
 
 ### Data
-[Training Dataset](https://github.com/midumass/DSC-550/tree/master/5.2/train.csv)
+[Zipped Dataset](https://github.com/midumass/DSC-550/tree/master/5.2/articles1.zip)
 
 ### Results
 Counts of articles from different news sources.
