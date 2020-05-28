@@ -5,6 +5,7 @@ header:
   overlay_image: "/images/groundwater.jpg"
 ---
 # NC Groundwater Predictive Analysis
+[View on GitHub](https://github.com/midumass/DSC-630/tree/master/9.2) 
 
 ### Purpose
 With populations expoloding, water availability will become a major concern as it is in many places across the globe. This project analyzes the ground water levels in North Carolina for trends.
