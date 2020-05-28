@@ -15,7 +15,7 @@ Using charts and geospatial data, this project tries to sell you on the safety o
 * Geospatial Data
 
 ### Data
-[Travel Fatality Data](https://github.com/midumass/DSC-640/blob/master/4.3/fatalities_miles.xlsx) 
+[Travel Fatality Data](https://github.com/midumass/DSC-640/blob/master/4.3/fatalities_miles.xlsx)   
 [Airport Location Data](https://github.com/midumass/DSC-640/blob/master/4.3/airports.csv)
 
 ### Results
