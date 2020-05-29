@@ -8,7 +8,7 @@ header:
       url: "mailto:fake@fake.com"
 ---
 
-
+With 10 years of Database and Data Management, I'd love to tackle your next project. Please contact me if you have projects to discuss!
 
 [email](mailto:zahill@my365.bellevue.edu)
 
