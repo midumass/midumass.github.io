@@ -7,45 +7,78 @@ header:
 # World Obesity
 [View GitHub Repository](https://github.com/midumass/My_Weight_Loss/tree/master/) 
 
-### Purpose
-Obesity in the United States has long been in the news due to its association with health risks and the cost burden it places on the entire population.  Those health risks include heart disease, stroke, type 2 diabetes and certain types of cancer that are some of the leading causes of preventable, premature death. Alongside the health-related problems is a drastic increase in cost. Compared with normal weight individuals, obese patients incur 46 percent increased inpatient costs, 27 percent more physician visits and outpatient costs, and 80 percent increased spending on prescription drugs. These costs are paid for by everyone, not just the obese individuals in question. 
+#### -- Project Status: [On-Hold until more data collected]
 
-One of the most prevalent diseases associated with obesity is Diabetes Mellitus, particularly Type 2 Diabetes. The prevalence of this non-communicable disease more than doubled every year from 1990 through 2008, although there are indications that the rate of growth is starting to fall in some areas. The demand for insulin resulting from this ridiculous growth has caused shortages in the drug, leaving prices skyrocketing over the past ten years. It is now estimated that the population of insulin-dependent people on earth will more than double by 2030, without any means of producing enough insulin to treat them all. Without the means of producing the drug people will begin dying at alarming rates, and as we push more and more resources into producing this substance the costs will grow ever higher. If governments, like Canada, put price caps on the drug, the production won’t be profitable enough to continue and it will come down to taxpayers having to pay for it entirely. This is just one side effect of obesity and the lifestyle causing it. 
+## Objective
+Weight loss sites, doctor's recommendations and science have failed me in weight loss. This project aims to find out why. See History, for those who care for the background.
 
-A second disease highly associated with obesity is heart disease. Three major factors contributing to cardiovascular diseases are high blood pressure, high cholesterol and diabetes. These three factors correlate directly with obesity, to the tune of at least 68% of patients 65 or older with heart disease also have diabetes, a number too great to be coincidence. 
-
-We have slim hope of fixing this quickly, but if we don't do something now that slim hope might be the last slim thing humanity has.
-
+### Methods Used
+* Inferential Statistics
+* Data Visualization
+* Predictive Modeling
 
 ### Technologies
-* Python, plotly
-* Time-Series and Statistical Analysis
-* Data Visualizations
+* Python
+* D3
+* Microsoft Excel
+* pandas
 
-### Data
-Two datasets were compiled to analyze the prevalence of obesity; one for the obesity numbers themselves, provided by the World Health Organization and one from the World Bank for population analysis. The two were merged to allow analysis of obesity by both country and raw population numbers. While both datasets are considered crude estimates, all should be relative. 
+## Data
+Data created personally for personal use. Files available in respository. 
 
-The World Health Organization (WHO) dataset can be downloaded from [here](https://www.who.int/data/gho/data/themes/theme-details/GHO/body-mass-index-(bmi)).
+#### Explanation of Features
+* Date
+* Weight recorded
+* Weight predicted through Excel FORECAST function
+* Weight lost on that day, in pounds
+* Average weight lost over range January 1, 2020 - Present
+* Weight lost since the same day the previous week
+* Rolling weekly average
+* Day of the week
+* Day of the week as numeric factor
+* Volume of water consumed [1]
+* Sodium Intake [2]
+* Calorie Intake [3]
+* Meal Frequency [4]
+* Eat after 8 : 1 = Yes, 0 = No
+* Eat after 11: 1 = Yes, 0 = No
+* Hours of Sleep
+* Hunger upon waking, before weigh in: 1 = Yes, 0 = No
 
-The World Bank Population data can be found [here](https://datacatalog.worldbank.org/dataset/population-estimates-and-projections).
+[General Notes on Feeding]
+All meals are balanced to 1:1 grams of fat to grams of protein, or more of fat. Type of fat is ignored. Total Daily carb intake is less than 20g per day, including fiber. No exercise or activity conducted. All caloric intake from food, only water and black coffee imbibed. 
 
-### Results
-To understand obesity we need to understand first how prevalent it is. It is not limited to rich or poor, it is becoming an epidemic everywhere as indicated below.
+[1 - Water Consumed]
+* 1 - Less than Half Gallon
+* 2 - Less than Gallon, more than Half Gallon
+* 3 - Around a Gallon
+* 4 - More than a Gallon, less than One and One Half Gallons
+* 5 - More than One and One Half Gallons
 
-![](images/WorldObesity/obs_map.png)
+[2 - Sodium Intake]
+* 1 - Sodium intentionally avoided
+* 2 - Ate mostly Low Sodium Foods
+* 3 - Ate normally, didn't eat anything high-sodium
+* 4 - Ate normally but did eat high Sodium foods (bacon, pork rinds, etc)
+* 5 - Pigged out on Whisps, Pork Rinds, Bacon and Pimento Cheese in Lunch meat
 
-We see some nations have far higher rates than others, but we also see that no country is immune. This is a drastic change from the early 1970's. In 1975, more than a quarter of nations reported obesity rates below 1%. Today, no nations report below 1% and only one reports obesity rates under 3%.
+[3 - Calorie Intake]
+* 1 - < BMR * .5
+* 3 - BMR * .75
+* 5 - BMR
+* 7 - BMR * 1.25 (Sedentary TDEE)
+* 9 - > BMR * 1.5 (Olympic TDEE)
 
-![](images/WorldObesity/obs_hist_ani.gif)
+[4 - Meal Frequency]
+* 1 - 2 or less meals per day
+* 2 - 3-5 feedings
+* 3 - 6-8 feedings
+* 4 - 9-11 feedings
+* 5 - 12+ feedings
 
-This marked change is important. As the obesity dilema evolves, more and more nations will suffer the effects. Today, many nations have more obese adults than non-obese and many more are coming close. The total population is climbing rapidly, but the obese population is increasing at an even greater rate. 
+## History, for those who care
+My obesity has begun affecting my ability to live happy and healthy. It has prevented me from enjoying activities with my family like Roller Coasters, sports, and outdoor projects like scouting with my son and rebuilding my old muscle car. On the evening of December 9, 2019, my wife asked if I'd like to try the Keto diet with her starting the following morning and I said sure. After a 10 day bout with the worst keto flu I've ever heard of anyone having and aiming for zero carbs each day, I caved. On December 19th, I ate half an apple and felt amazing. Over the next 10 days I realized I needed at least a few carbs, but have kept my intake under 20g total per day, including fiber. With few cravings and no cheats, I aimed for 75% of my basal metabloic rate's necessary calories, initially about 1600 per day, and attempted to balance calories to about 70% fat, 30% protein and any discrepancies in the 20g of carbs I had left over. I felt so much better and felt the weight coming off, but I weighed more than my scale could accurately measure so on New Years Eve, December 31, 2019, I gorged on stuffed crust pizza, cheese sticks and garlic knots. This was to be my last meal as a fatty.
 
-![](images/WorldObesity/obs_pop.png)
+On January 1st, I began recording my weight. Over the next month, as my weight continually declined, I realized I was losing more weight than should be possible. I had been in ketoosis for 3 weeks prior to starting my records so this couldn't have been water weight as I had lost all of that (or most of it) during my Keto flu. Either the doctors are wrong about calories in versus calories out or I have super human metabolism. By early February, I began recording other features of what might be causing my rapid, consistent, easy weight loss. As of late March, I should have reached a plateau but I have not. I should have had at least some cravings or hunger, but again that has not been the case. The features included might help me and others understand better what truly has the most effect on weight loss as my journey so far defies what all documentation says I should have experienced. This project began with understanding why my diet is working so well, but might evolve into finding out how to make a diet work well for everyone.
 
-Where will this leave us in 20 years? At current rates of increase, the entire adult population could be obese. 
-
-![](images/WorldObesity/obs_pop_future.png)
-
-Imagine how much healthcare will cost then.
-
-Code and Data can be pulled from the linked repository found [here](https://github.com/midumass/World_Obesity/tree/master/).
+My bacon, cheese, and mayonaise version of keto defies everything I've ever been told.
