@@ -7,12 +7,11 @@ header:
     - label: "Send me an email"
       url: "mailto:fake@fake.com"
 ---
+
+
+
 email: [mailto](mailto:zahill@my365.bellevue.edu)
 
-LinkedIn: <omitted temporarily>
+[LinkedIn](https://linkedin.com/in/zach-hill-27506748)
 
-Twitter: That's personal
-
-Facebook: I wonder if I can still log in here
-
-Instagram : HAHA I dont have one.
+[Facebook](https://www.facebook.com/zach.hill.3538/)
