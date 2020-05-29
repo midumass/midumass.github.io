@@ -10,7 +10,7 @@ header:
 
 
 
-email: [mailto](mailto:zahill@my365.bellevue.edu)
+[email](mailto:zahill@my365.bellevue.edu)
 
 [LinkedIn](https://linkedin.com/in/zach-hill-27506748)
 
