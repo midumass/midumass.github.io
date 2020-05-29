@@ -1,5 +1,5 @@
 ---
-title: "World Obesity"
+title: "Weight Loss"
 permalink: /WeightLoss/
 header:
   overlay_image: "/images/fat_cat.jpg"
